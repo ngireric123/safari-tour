@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/safari/static/css/main.5f361e03.chunk.css",
+    "main.js": "/safari/static/js/main.79d64174.chunk.js",
+    "main.js.map": "/safari/static/js/main.79d64174.chunk.js.map",
+    "runtime-main.js": "/safari/static/js/runtime-main.7c481fe0.js",
+    "runtime-main.js.map": "/safari/static/js/runtime-main.7c481fe0.js.map",
+    "static/js/2.c2553c79.chunk.js": "/safari/static/js/2.c2553c79.chunk.js",
+    "static/js/2.c2553c79.chunk.js.map": "/safari/static/js/2.c2553c79.chunk.js.map",
+    "index.html": "/safari/index.html",
+    "precache-manifest.232abd4b8798baca7e6187533ccaf29a.js": "/safari/precache-manifest.232abd4b8798baca7e6187533ccaf29a.js",
+    "service-worker.js": "/safari/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/safari/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c2553c79.chunk.js.LICENSE.txt": "/safari/static/js/2.c2553c79.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/safari/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c481fe0.js",
+    "static/js/2.c2553c79.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.79d64174.chunk.js"
+  ]
+}
